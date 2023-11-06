@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-bootstrap-pagination": "^2.10.3"
+  }
+}
